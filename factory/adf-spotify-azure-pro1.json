@@ -1,0 +1,16 @@
+{
+	"name": "adf-spotify-azure-pro1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "abc40916-0aee-45d0-94ec-d6bc4c9b8a04",
+		"tenantId": "555c4e3a-2dec-4f0e-8f32-a60d5c272e62"
+	}
+}
